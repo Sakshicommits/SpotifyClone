@@ -2,7 +2,7 @@ let currSong=new Audio()
 
 
 async function songs() {
-    let a=await fetch("http://127.0.0.1:3000/Spotify%201/songs/")
+    let a=await fetch("http://127.0.0.1:3000/Spotify%201/")
     let res=await a.text()
     // console.log(res)
     let song=[]
