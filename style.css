@@ -699,7 +699,7 @@ font-size: 14px;
 
 
 
-  @media (max-width: 925px) {
+  @media (max-width: 419px) {
     .left {
       background-color: lightblue;
       position: absolute;
